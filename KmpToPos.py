@@ -44,7 +44,7 @@ def getNextList(strs):
 
 def TL_ORG_POS(Sentence_data,list_ORG_append):
   '''
-  :param Sentence_data: 句子列表
+  :param Sentence_data: 每个句子列表
   :param list_ORG_append: 句子包含实体列表
   :return: 输出转换为BIO标签字典列表
   '''
